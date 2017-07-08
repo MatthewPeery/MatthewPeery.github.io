@@ -10,7 +10,9 @@
 html, body {
   scroll-behavior: smooth;
   font-size: 30px;
-  font-family: Times; }
+  font-family: Times; 
+  background: url("https://static.pexels.com/photos/6518/man-person-hands-coffee.jpg")
+}
 .view {
   height: 100%;
   background: url("https://static.pexels.com/photos/6518/man-person-hands-coffee.jpg")no-repeat center center fixed;
