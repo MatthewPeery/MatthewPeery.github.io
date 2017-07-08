@@ -79,7 +79,9 @@ footer .row {
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
-  margin: 40px; }
+  margin: 40px; 
+  border: 2px solid white;
+}
 
 .jumbotron1 h2 {
   font-size: 60px;
@@ -100,7 +102,9 @@ footer .row {
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
-  margin: 40px; }
+  margin: 40px; 
+  border: 2px solid white;
+}
 
 .jumbotron2 h2 {
   font-size: 60px;
