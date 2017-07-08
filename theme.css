@@ -11,6 +11,15 @@ html, body {
   scroll-behavior: smooth;
   font-size: 30px;
   font-family: Times; }
+.view {
+  height: 100%;
+  background: url("https://mdbootstrap.com/images/regular/city/img%20(17).jpg")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+}
 
 nav p {
   border: 1px solid black; 
