@@ -19,7 +19,13 @@ nav p {
   border: 1px solid white;
   color: white;
 }
-nav div a {
+.home{
+  color: white;
+}
+.contact{
+  color: white;
+}
+.about{
   color: white;
 }
 .home a {
