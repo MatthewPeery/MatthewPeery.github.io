@@ -160,6 +160,11 @@ footer .row {
   font-weight: 400;
   margin: 0;
   color: white; }
+#footer {
+  color:white;
+  font-size:16px;
+  float: right;
+}
 
 /*!
 * Bootstrap 4.0.0-alpha.6 (https://getbootstrap.com)
