@@ -1,23 +1,51 @@
----
-layout: default
----
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+<html><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="theme.css" type="text/css"> </head><body>
+	<header class="container">
+  	<div class="row">
+      <h1 class="col-sm-8">
+        7/12 Studios
+      </h1>
+      <nav class="col-sm-4">
+      	<p class="about">
+          <a>
+          	About
+          </a>
+        </p>
+        <p class="contact">
+          <a>
+          	Contact
+          </a>
+        </p>
+      </nav>
+    </div>
+  </header>
+  <section class="jumbotron1">
+  	<div class="container">
+      <div class="row text-center">
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          Website Design
         </h2>
-      </li>
-    {% endfor %}
-  </ul>
+        <h3>
+          Modern Website Design and Development
+        </h3>
+      </div>
+    </div>
+  </section>
+  <section class="jumbotron2">
+  	<div class="container">
+      <div class="row text-center">
+        <h2>
+          Software Development
+        </h2>
+        <h3>
+          Software Development in Python, Java, HTML, CSS, etc.
+        </h3>
+      </div>
+    </div>
+  </section>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-</div>
+</body></html>
