@@ -12,6 +12,7 @@ html, body {
   font-size: 30px;
   font-family: Times; 
   background: url("https://static.pexels.com/photos/6518/man-person-hands-coffee.jpg")
+  background-size: cover;
 }
 .view {
   height: 100%;
