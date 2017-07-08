@@ -27,7 +27,7 @@ nav p {
 .about a:active {
   top: 2px; }
 
-.contact a {
+ a {
   cursor: pointer;
   margin-right: 60px;
   padding: 8px 18px;
