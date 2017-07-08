@@ -127,6 +127,24 @@ footer .row {
   font-size: 40px;
   margin: 0 0 40px; }
 
+.jumbotron3 {
+  display: flex;
+  align-items: center;
+  background-image: url("https://static.pexels.com/photos/326424/pexels-photo-326424.jpeg");
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+  margin: 40px; 
+  border: 5px solid white;
+}
+
+.jumbotron3 h2 {
+  font-size: 60px;
+  font-weight: 800;
+  margin: 0;
+  color: white; }
+
 /*!
 * Bootstrap 4.0.0-alpha.6 (https://getbootstrap.com)
 * Copyright 2011-2017 The Bootstrap Authors
