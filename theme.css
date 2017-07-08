@@ -13,8 +13,9 @@ html, body {
   font-family: Times; }
 
 nav p {
-  border: 1px solid black; }
-.about a, contact a {
+  border: 1px solid black; 
+}
+.about a {
   cursor: pointer;
   margin-right: 30px;
   padding: 8px 18px;
@@ -25,6 +26,13 @@ nav p {
 .about a:active {
   top: 2px; }
 
+.contact a {
+  cursor: pointer;
+  margin-right: 60px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  position: relative;
+}
 .contact a:active {
   top: 2px; }
 
