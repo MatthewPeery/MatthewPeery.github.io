@@ -29,6 +29,7 @@ nav div a {
   padding: 8px 18px;
   border: 1px solid white;
   position: relative;
+  color: white;
 }
 
 .home a:active {
@@ -40,6 +41,7 @@ nav div a {
   padding: 8px 18px;
   border: 1px solid white;
   position: relative;
+  color: white;
 }
 
 .about a:active {
@@ -51,6 +53,7 @@ nav div a {
   padding: 8px 18px;
   border: 1px solid white;
   position: relative;
+  color: white;
 }
 .contact a:active {
   top: 2px; }
