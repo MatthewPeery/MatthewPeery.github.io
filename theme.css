@@ -28,7 +28,7 @@ nav p {
 }
 .about a {
   cursor: pointer;
-  margin-right: 30px;
+  margin-right: 100px;
   padding: 8px 18px;
   border: 1px solid #204156;
   position: relative;
@@ -39,7 +39,7 @@ nav p {
 
 .contact a {
   cursor: pointer;
-  margin-right: 65px;
+  margin-right: 100px;
   padding: 8px 18px;
   border: 1px solid #204156;
   position: relative;
