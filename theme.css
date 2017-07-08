@@ -11,17 +11,8 @@ html, body {
   scroll-behavior: smooth;
   font-size: 30px;
   font-family: Times; 
-  background: url("https://static.pexels.com/photos/6518/man-person-hands-coffee.jpg")
+  background: url("https://static.pexels.com/photos/107906/pexels-photo-107906.jpeg")
   background-size: cover;
-}
-.view {
-  height: 100%;
-  background: url("https://static.pexels.com/photos/6518/man-person-hands-coffee.jpg")no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 }
 
 nav p {
@@ -84,7 +75,7 @@ footer .row {
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
-  margin: 20px; }
+  margin: 40px; }
 
 .jumbotron1 h2 {
   font-size: 60px;
@@ -105,7 +96,7 @@ footer .row {
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
-  margin: 20px; }
+  margin: 40px; }
 
 .jumbotron2 h2 {
   font-size: 60px;
